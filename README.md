@@ -1,1 +1,3 @@
-# time-series-forecasting
+# Forecasting models
+
+Repository for time series forecasting models
